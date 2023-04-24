@@ -1,5 +1,4 @@
 function file(name) {
-    return name
-};
-
+    return name;
+}
 file();
