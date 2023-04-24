@@ -1,1 +1,5 @@
-console.log("Hello Wolrd")
+function file(name) {
+    return name
+};
+
+file();
