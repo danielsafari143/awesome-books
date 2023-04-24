@@ -1,4 +1,4 @@
-function file(name){
+function file(name) {
   return name;
 }
 file();
